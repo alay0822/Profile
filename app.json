@@ -1,8 +1,10 @@
 {
   "expo": {
-    "name": "Myapp",
-    "slug": "Myapp",
+    "name": "MyApp",
+    "slug": "MyApp",
+    "scheme": "com.myapp.app",
     "version": "1.0.0",
+    "plugins": ["expo-router"],
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
